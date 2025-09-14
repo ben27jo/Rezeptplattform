@@ -1,0 +1,31 @@
+# Node / Next
+node_modules/
+.next/
+out/
+dist/
+.cache/
+.vercel/
+coverage/
+
+# Logs & OS
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Env & lokal
+.env
+.env.*
+!.env.example
+.env.local
+
+# Editor
+.vscode/
+.idea/
+
+# Builds / temporär
+*.local
+*.tmp
+*.swp
